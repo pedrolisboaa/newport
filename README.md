@@ -8,6 +8,10 @@
 
 ​	De verdade, fiquei muito feliz com resultado.
 
+
+
+*Atualização agora está responsivo, mas preciso arrumar o menu.*
+
 ------
 
 
